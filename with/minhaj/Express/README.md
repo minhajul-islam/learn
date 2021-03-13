@@ -1,1 +1,2 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XHECZDy_ctg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[gist 1256020]
+<div class="gistr">1256020</div>
