@@ -1,14 +1,49 @@
 
-### Table of Contents
+### Table of Contents for react native
 
 | No. | Questions |
 | --- | --------- |
-|   | **React Native** |
+|   | **Development** |
+|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
+|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
+|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
+|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
+|   | **Interview** |
 |188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
 |189| [How to test React Native apps?](#how-to-test-react-native-apps) |
 |190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
 |191| [How to debug your React Native?](#how-to-debug-your-react-native) |
 
+
+### Table of Contents for android
+
+| No. | Questions |
+| --- | --------- |
+|   | **Development** |
+|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
+|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
+|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
+|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
+|   | **Interview** |
+|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
+|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
+|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
+|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
+
+### Table of Contents for ios
+
+| No. | Questions |
+| --- | --------- |
+|   | **Development** |
+|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
+|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
+|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
+|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
+|   | **Interview** |
+|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
+|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
+|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
+|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
 
 ## React Native
 
